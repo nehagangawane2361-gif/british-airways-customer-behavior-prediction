@@ -1,6 +1,6 @@
-# british-airways-customer-behavior-prediction
-Machine Learning project to predict customer booking behavior using British Airways dataset
 # ✈️ British Airways Customer Behavior Prediction
+Machine Learning project to predict customer booking behavior using British Airways dataset
+
 
 ## 📌 Project Overview
 Machine Learning project to predict customer booking behavior using British Airways dataset.
